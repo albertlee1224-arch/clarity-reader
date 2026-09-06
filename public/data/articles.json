@@ -1,36 +1,15 @@
 {
-  "fetchedAt": "2026-09-05T00:26:55.469Z",
+  "fetchedAt": "2026-09-06T00:19:14.698Z",
   "todayPickIds": [
     "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9hbi1pbnRlcnZpZXctd2l0aC1vcGVuYWktcHJlc2lkZW50LWdyZWctYnJvY2ttYW4tYWJvdXQtYXN0cmEtYW5kLWFsaWdubWVudC8",
-    "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wOS8wNC8xMTQzNDU3L3RoZS1kb3dubG9hZC11a3JhaW5lLXNlbGxpbmctZHJvbmUtZGF0YS1haS1yZXNoYXBpbmctbGFuZ3VhZ2Uv",
-    "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyU4YSVhNCVlZCU4MyU4MCVlZCU4YSViOCVlYyU5NyU4NS0lZWMlOTUlODglZWQlODUlOGMlZWIlODIlOTgtJWVjJTlkJWI4JWVkJTg1JTk0JWViJWE2JWFjJWViJWI5JTg1JWVjJThhJWE0LSVlYyViZCU5NCVlYyU4YSVhNCVlYiU4YiVhNS0lZWMlOTglODglZWMlOGIlYWMtJWVkJTg2JWI1JWVhJWIzJWJjJWMyJWI3JWVkJTgxJWFjLz91dG1fc291cmNlPXJzcyZ1dG1fbWVkaXVtPXJzcyZ1dG1fY2FtcGFpZ249JTI1ZWMlMjU4YSUyNWE0JTI1ZWQlMjU4MyUyNTgwJTI1ZWQlMjU4YSUyNWI4JTI1ZWMlMjU5NyUyNTg1LSUyNWVjJTI1OTUlMjU4OCUyNWVkJTI1ODUlMjU4YyUyNWViJTI1ODIlMjU5OC0lMjVlYyUyNTlkJTI1YjglMjVlZCUyNTg1JTI1OTQlMjVlYiUyNWE2JTI1YWMlMjVlYiUyNWI5JTI1ODUlMjVlYyUyNThhJTI1YTQtJTI1ZWMlMjViZCUyNTk0JTI1ZWMlMjU4YSUyNWE0JTI1ZWIlMjU4YiUyNWE1LSUyNWVjJTI1OTglMjU4OCUyNWVjJTI1OGIlMjVhYy0lMjVlZCUyNTg2JTI1YjUlMjVlYSUyNWIzJTI1YmMlMjVjMiUyNWI3JTI1ZWQlMjU4MSUyNWFj",
+    "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyU5NyVhZCVlYiU4YyU4MC0lZWElYjAlODAlZWMlOWUlYTUtJWViJTk4JTkxJWViJTk4JTkxJWVkJTk1JTk4JWViJThiJWE0JWVjJTk4JWE0JWVkJTk0JTg4YWktcGMlYzIlYjclZWMlOWIlYjktJWViJTg0JTk4JWViJTgyJTk4JWViJTkzJTljJWViJThhJTk0LWdwdC02Lz91dG1fc291cmNlPXJzcyZ1dG1fbWVkaXVtPXJzcyZ1dG1fY2FtcGFpZ249JTI1ZWMlMjU5NyUyNWFkJTI1ZWIlMjU4YyUyNTgwLSUyNWVhJTI1YjAlMjU4MCUyNWVjJTI1OWUlMjVhNS0lMjVlYiUyNTk4JTI1OTElMjVlYiUyNTk4JTI1OTElMjVlZCUyNTk1JTI1OTglMjVlYiUyNThiJTI1YTQlMjVlYyUyNTk4JTI1YTQlMjVlZCUyNTk0JTI1ODhhaS1wYyUyNWMyJTI1YjclMjVlYyUyNTliJTI1YjktJTI1ZWIlMjU4NCUyNTk4JTI1ZWIlMjU4MiUyNTk4JTI1ZWIlMjU5MyUyNTljJTI1ZWIlMjU4YSUyNTk0LWdwdC02",
+    "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wOS8wMi8xMTQzMjgzL3RoZS1kb3dubG9hZC1haS1wdXp6bGVzLWFscGhhLWNlbnRhdXJpLW1pc3Npb24v",
     "aHR0cHM6Ly9qYWNrLWNsYXJrLm5ldC8yMDI2LzA4LzMxL2ltcG9ydC1haS00NzEtd2h5LWh1Z2dpbmctZmFjZS13b3JyaWVzLW1lLXNwYWNlLW1pbmluZy1maXZlLWV5ZXMtb24tYWkv",
     "aHR0cHM6Ly93d3cub25ldXNlZnVsdGhpbmcub3JnL3AvYWdlbmN5LWFuZC1hZ2VudHM"
   ],
   "sourceCount": 9,
   "articleCount": 300,
   "articles": [
-    {
-      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9hbi1pbnRlcnZpZXctd2l0aC1vcGVuYWktcHJlc2lkZW50LWdyZWctYnJvY2ttYW4tYWJvdXQtYXN0cmEtYW5kLWFsaWdubWVudC8",
-      "title": "An Interview with OpenAI President Greg Brockman About Astra and Alignment",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/feed/",
-      "articleUrl": "https://stratechery.com/2026/an-interview-with-openai-president-greg-brockman-about-astra-and-alignment/",
-      "thumbnailUrl": null,
-      "author": "Ben Thompson",
-      "category": "AI + Alignment",
-      "publishedAt": "2026-09-04T10:00:00.000Z",
-      "readingMinutes": 4,
-      "score": 119,
-      "whyItMatters": "AI 변화가 사회와 일에 어떤 파장을 만드는지 읽게 해준다.",
-      "excerpt": "An interview with OpenAI President and Co-Founder Greg Brockman about the history of OpenAI, Astra and alignment, and the weight of building the future.",
-      "tags": [
-        "stratechery",
-        "daily update",
-        "interviews"
-      ],
-      "isNew": true
-    },
     {
       "id": "aHR0cHM6Ly93d3cub25ldXNlZnVsdGhpbmcub3JnL3AvcmVhbC1haS1hZ2VudHMtYW5kLXJlYWwtd29yaw",
       "title": "Real AI Agents and Real Work",
@@ -49,6 +28,27 @@
         "one-useful-thing"
       ],
       "isNew": false
+    },
+    {
+      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9hbi1pbnRlcnZpZXctd2l0aC1vcGVuYWktcHJlc2lkZW50LWdyZWctYnJvY2ttYW4tYWJvdXQtYXN0cmEtYW5kLWFsaWdubWVudC8",
+      "title": "An Interview with OpenAI President Greg Brockman About Astra and Alignment",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/feed/",
+      "articleUrl": "https://stratechery.com/2026/an-interview-with-openai-president-greg-brockman-about-astra-and-alignment/",
+      "thumbnailUrl": null,
+      "author": "Ben Thompson",
+      "category": "AI + Alignment",
+      "publishedAt": "2026-09-04T10:00:00.000Z",
+      "readingMinutes": 4,
+      "score": 115,
+      "whyItMatters": "AI 변화가 사회와 일에 어떤 파장을 만드는지 읽게 해준다.",
+      "excerpt": "An interview with OpenAI President and Co-Founder Greg Brockman about the history of OpenAI, Astra and alignment, and the weight of building the future.",
+      "tags": [
+        "stratechery",
+        "daily update",
+        "interviews"
+      ],
+      "isNew": true
     },
     {
       "id": "aHR0cHM6Ly93d3cub25ldXNlZnVsdGhpbmcub3JnL3AvbWFuYWdlbWVudC1hcy1haS1zdXBlcnBvd2Vy",
@@ -1225,26 +1225,6 @@
       "isNew": false
     },
     {
-      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9mcmljdGlvbi1hbmQtZmVlZGJhY2sv",
-      "title": "2026.36: Friction and Feedback",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/feed/",
-      "articleUrl": "https://stratechery.com/2026/friction-and-feedback/",
-      "thumbnailUrl": null,
-      "author": "Ben Thompson",
-      "category": "AI + Society",
-      "publishedAt": "2026-09-04T17:55:39.000Z",
-      "readingMinutes": 4,
-      "score": 104,
-      "whyItMatters": "정보보다 해석, 속보보다 관점을 남기는 글에 가깝다.",
-      "excerpt": "The best Stratechery content from the week of August 31, 2026, including the market speaking, Apple finding religion, and society losing friction.",
-      "tags": [
-        "stratechery",
-        "this week in stratechery"
-      ],
-      "isNew": true
-    },
-    {
       "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9tZXRhLXNldHRsZXMtYS1mcmFtZXdvcmstZm9yLXJlZ3VsYXRpbmctY29udGVudC10aGUtcmVzdC1vZi1iaWctdGVjaC8",
       "title": "Meta Settles, A Framework For Regulating Content, The Rest of Big Tech",
       "source": "Stratechery",
@@ -1988,26 +1968,6 @@
       "isNew": true
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wOS8wMi8xMTQzMjgzL3RoZS1kb3dubG9hZC1haS1wdXp6bGVzLWFscGhhLWNlbnRhdXJpLW1pc3Npb24v",
-      "title": "The Download: AI puzzles and a path to our nearest star system",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "articleUrl": "https://www.technologyreview.com/2026/09/02/1143283/the-download-ai-puzzles-alpha-centauri-mission/",
-      "thumbnailUrl": null,
-      "author": "Thomas Macaulay",
-      "category": "AI + Society",
-      "publishedAt": "2026-09-02T12:10:00.000Z",
-      "readingMinutes": 4,
-      "score": 103,
-      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
-      "excerpt": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI models flub these intelligence tests. Can you fare any better? Puzzles and games have always been c",
-      "tags": [
-        "mit-technology-review",
-        "the download"
-      ],
-      "isNew": false
-    },
-    {
       "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wOC8yNy8xMTQzMDMzL3RoZS1kb3dubG9hZC1vcGVuYWktaHVnZ2luZy1mYWNlLWhhY2stc2xhdGUtdHJ1Y2stZXYv",
       "title": "The Download: inside OpenAI’s Hugging Face hack, and a new EV takes on the US",
       "source": "MIT Technology Review",
@@ -2498,46 +2458,6 @@
       "isNew": false
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wOS8wNC8xMTQzNDU3L3RoZS1kb3dubG9hZC11a3JhaW5lLXNlbGxpbmctZHJvbmUtZGF0YS1haS1yZXNoYXBpbmctbGFuZ3VhZ2Uv",
-      "title": "The Download: selling battlefield drone data and AI reshaping language",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "articleUrl": "https://www.technologyreview.com/2026/09/04/1143457/the-download-ukraine-selling-drone-data-ai-reshaping-language/",
-      "thumbnailUrl": null,
-      "author": "Thomas Macaulay",
-      "category": "AI + Society",
-      "publishedAt": "2026-09-04T12:10:00.000Z",
-      "readingMinutes": 4,
-      "score": 102,
-      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
-      "excerpt": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Data from drones in Ukraine is fueling a new Wild West marketplace —Cory Alpert, a researcher at the U",
-      "tags": [
-        "mit-technology-review",
-        "the download"
-      ],
-      "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9mYWJsZS01LTEtZW50ZXJwcmlzZS1mcm9udGllci1zYWZlZ3VhcmRzLw",
-      "title": "Fable 5.1, Enterprise Frontier Safeguards",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/feed/",
-      "articleUrl": "https://stratechery.com/2026/fable-5-1-enterprise-frontier-safeguards/",
-      "thumbnailUrl": null,
-      "author": "Ben Thompson",
-      "category": "Business Strategy",
-      "publishedAt": "2026-09-02T10:00:00.000Z",
-      "readingMinutes": 4,
-      "score": 102,
-      "whyItMatters": "정보보다 해석, 속보보다 관점을 남기는 글에 가깝다.",
-      "excerpt": "Fable 5.1 is out, and the hated Fable data retention policy is not just being altered, but entirely removed in the meantime. Plus, why increased caching is a win-win.",
-      "tags": [
-        "stratechery",
-        "daily update"
-      ],
-      "isNew": false
-    },
-    {
       "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wOS8wMS8xMTQzMTk5L3RoZS1kb3dubG9hZC1lbmdpbmVlcmVkLW1pY3JvYmVzLW9wZW5haS1zYWZldHktY3VsdHVyZS8",
       "title": "The Download: engineered microbes for crops, and OpenAI’s culture problem",
       "source": "MIT Technology Review",
@@ -2779,28 +2699,6 @@
         "space",
         "app",
         "mit technology review explains"
-      ],
-      "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wOS8wNC8xMTQzNDUyL2Ryb25lLWRhdGEtd2lsZC13ZXN0Lw",
-      "title": "Data from drones in Ukraine is fueling a new Wild West marketplace",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "articleUrl": "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/",
-      "thumbnailUrl": null,
-      "author": "Cory Alpert",
-      "category": "AI + Society",
-      "publishedAt": "2026-09-04T09:25:19.000Z",
-      "readingMinutes": 4,
-      "score": 101,
-      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
-      "excerpt": "Battlefields in Ukraine are littered with the remnants of drones, which are now firmly established as a critical weapon of modern warfare. But behind all that wreckage, there’s a new gold mine for the defense sector. The data drones generat",
-      "tags": [
-        "mit-technology-review",
-        "artificial intelligence",
-        "app",
-        "opinion"
       ],
       "isNew": true
     },
@@ -3356,24 +3254,22 @@
       "isNew": false
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyU4YSVhNCVlZCU4MyU4MCVlZCU4YSViOCVlYyU5NyU4NS0lZWMlOTUlODglZWQlODUlOGMlZWIlODIlOTgtJWVjJTlkJWI4JWVkJTg1JTk0JWViJWE2JWFjJWViJWI5JTg1JWVjJThhJWE0LSVlYyViZCU5NCVlYyU4YSVhNCVlYiU4YiVhNS0lZWMlOTglODglZWMlOGIlYWMtJWVkJTg2JWI1JWVhJWIzJWJjJWMyJWI3JWVkJTgxJWFjLz91dG1fc291cmNlPXJzcyZ1dG1fbWVkaXVtPXJzcyZ1dG1fY2FtcGFpZ249JTI1ZWMlMjU4YSUyNWE0JTI1ZWQlMjU4MyUyNTgwJTI1ZWQlMjU4YSUyNWI4JTI1ZWMlMjU5NyUyNTg1LSUyNWVjJTI1OTUlMjU4OCUyNWVkJTI1ODUlMjU4YyUyNWViJTI1ODIlMjU5OC0lMjVlYyUyNTlkJTI1YjglMjVlZCUyNTg1JTI1OTQlMjVlYiUyNWE2JTI1YWMlMjVlYiUyNWI5JTI1ODUlMjVlYyUyNThhJTI1YTQtJTI1ZWMlMjViZCUyNTk0JTI1ZWMlMjU4YSUyNWE0JTI1ZWIlMjU4YiUyNWE1LSUyNWVjJTI1OTglMjU4OCUyNWVjJTI1OGIlMjVhYy0lMjVlZCUyNTg2JTI1YjUlMjVlYSUyNWIzJTI1YmMlMjVjMiUyNWI3JTI1ZWQlMjU4MSUyNWFj",
-      "title": "[스타트업 안테나] 인텔리빅스 코스닥 예심 통과·크릿벤처스 에이버튼 후속투자·AI스페라 중동 확장",
-      "source": "Tech42",
-      "sourceUrl": "https://www.tech42.co.kr/feed/",
-      "articleUrl": "https://www.tech42.co.kr/%ec%8a%a4%ed%83%80%ed%8a%b8%ec%97%85-%ec%95%88%ed%85%8c%eb%82%98-%ec%9d%b8%ed%85%94%eb%a6%ac%eb%b9%85%ec%8a%a4-%ec%bd%94%ec%8a%a4%eb%8b%a5-%ec%98%88%ec%8b%ac-%ed%86%b5%ea%b3%bc%c2%b7%ed%81%ac/?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%258a%25a4%25ed%2583%2580%25ed%258a%25b8%25ec%2597%2585-%25ec%2595%2588%25ed%2585%258c%25eb%2582%2598-%25ec%259d%25b8%25ed%2585%2594%25eb%25a6%25ac%25eb%25b9%2585%25ec%258a%25a4-%25ec%25bd%2594%25ec%258a%25a4%25eb%258b%25a5-%25ec%2598%2588%25ec%258b%25ac-%25ed%2586%25b5%25ea%25b3%25bc%25c2%25b7%25ed%2581%25ac",
+      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9mcmljdGlvbi1hbmQtZmVlZGJhY2sv",
+      "title": "2026.36: Friction and Feedback",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/feed/",
+      "articleUrl": "https://stratechery.com/2026/friction-and-feedback/",
       "thumbnailUrl": null,
-      "author": "황정호 기자",
-      "category": "AI + Korea",
-      "publishedAt": "2026-09-04T00:28:02.000Z",
+      "author": "Ben Thompson",
+      "category": "AI + Society",
+      "publishedAt": "2026-09-04T17:55:39.000Z",
       "readingMinutes": 4,
       "score": 100,
-      "whyItMatters": "한국어 기반으로 AI 산업과 정책 흐름을 빠르게 정리해준다.",
-      "excerpt": "4일 스타트업 업계에서는 투자와 기업공개(IPO), 인공지능(AI) 보안, 서비스 출시, 해외시장 진출, 산학협력 등 다양한 소식이 이어졌다. 안전 AI 기업 인텔리빅스는 코스닥 상장예비심사를 통과했고, 크릿벤처스는 MMORPG 개발사 에이버튼에 후속 투자를 단행했다. AI스페라는 중동 금융권 고객 확보와 현지 파트너십을 기반으로 중동·아프리카 보안시장 공략을 확대한다. 에임인텔리전스와 에버스핀은 각각 대국민 AI 서비스와 대",
+      "whyItMatters": "정보보다 해석, 속보보다 관점을 남기는 글에 가깝다.",
+      "excerpt": "The best Stratechery content from the week of August 31, 2026, including the market speaking, Apple finding religion, and society losing friction.",
       "tags": [
-        "tech42",
-        "스타트업",
-        "ai스페라",
-        "더블에스코어"
+        "stratechery",
+        "this week in stratechery"
       ],
       "isNew": true
     },
@@ -6381,6 +6277,105 @@
         "구글"
       ],
       "isNew": true
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cub25ldXNlZnVsdGhpbmcub3JnL3AvdGhlLXNoYXBlLW9mLXRoZS10aGluZw",
+      "title": "The Shape of the Thing",
+      "source": "One Useful Thing",
+      "sourceUrl": "https://www.oneusefulthing.org/feed",
+      "articleUrl": "https://www.oneusefulthing.org/p/the-shape-of-the-thing",
+      "thumbnailUrl": null,
+      "author": "Ethan Mollick",
+      "category": "AI + Work",
+      "publishedAt": "2026-03-12T14:10:07.000Z",
+      "readingMinutes": 4,
+      "score": 100,
+      "whyItMatters": "AI를 실제 업무 판단으로 연결해주는 현실 감각이 있다.",
+      "excerpt": "Where we are right now, and what likely happens next",
+      "tags": [
+        "one-useful-thing"
+      ],
+      "isNew": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wOS8wMi8xMTQzMjgzL3RoZS1kb3dubG9hZC1haS1wdXp6bGVzLWFscGhhLWNlbnRhdXJpLW1pc3Npb24v",
+      "title": "The Download: AI puzzles and a path to our nearest star system",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "articleUrl": "https://www.technologyreview.com/2026/09/02/1143283/the-download-ai-puzzles-alpha-centauri-mission/",
+      "thumbnailUrl": null,
+      "author": "Thomas Macaulay",
+      "category": "AI + Society",
+      "publishedAt": "2026-09-02T12:10:00.000Z",
+      "readingMinutes": 4,
+      "score": 99,
+      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
+      "excerpt": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI models flub these intelligence tests. Can you fare any better? Puzzles and games have always been c",
+      "tags": [
+        "mit-technology-review",
+        "the download"
+      ],
+      "isNew": false
+    },
+    {
+      "id": "aHR0cHM6Ly9qYWNrLWNsYXJrLm5ldC8yMDI2LzA4LzI0L2ltcG9ydC1haS00NzAtbm8tcmlnaHRzLWZvci1tYWNoaW5lcy1hdXRvbWF0aW5nLWVudmlyb25tZW50LWdlbmVyYXRpb24td2l0aC1zcGFkZS1hbmQtYnVpbGRpbmctYmV0dGVyLWdwdS1rZXJuZWxzLXdpdGgtaGF3a2V5ZS8",
+      "title": "Import AI 470: No rights for machines; automating environment generation with SPADE; and building better GPU kernels with Hawkeye",
+      "source": "Import AI",
+      "sourceUrl": "https://jack-clark.net/feed/",
+      "articleUrl": "https://jack-clark.net/2026/08/24/import-ai-470-no-rights-for-machines-automating-environment-generation-with-spade-and-building-better-gpu-kernels-with-hawkeye/",
+      "thumbnailUrl": "https://i0.wp.com/jack-clark.net/wp-content/uploads/2026/08/https3A2F2Fsubstack-post-media.s3.amazonaws.com2Fpublic2Fimages2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x258-Fauq8x.png?resize=150%2C150&amp;ssl=1",
+      "author": "Jack Clark",
+      "category": "Research",
+      "publishedAt": "2026-08-24T13:12:40.000Z",
+      "readingMinutes": 4,
+      "score": 99,
+      "whyItMatters": "AI 연구의 실전 감도와 산업 변화의 속도를 동시에 잡게 해준다.",
+      "excerpt": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now AI is accelerating some types of progress but not others:…",
+      "tags": [
+        "import-ai",
+        "uncategorized"
+      ],
+      "isNew": false
+    },
+    {
+      "id": "aHR0cHM6Ly9qYWNrLWNsYXJrLm5ldC8yMDI2LzA4LzE3L2ltcG9ydC1haS00Njktc2NpZW5jZS1haS1yc2ktc2ltdWxhdG9yLWFuZC16dWNrcy10ZWNobm9sb2dpY2FsLXBlc3NpbWlzbS8",
+      "title": "Import AI 469: Science AI; RSI simulator; and Zuck’s technological pessimism",
+      "source": "Import AI",
+      "sourceUrl": "https://jack-clark.net/feed/",
+      "articleUrl": "https://jack-clark.net/2026/08/17/import-ai-469-science-ai-rsi-simulator-and-zucks-technological-pessimism/",
+      "thumbnailUrl": "https://i0.wp.com/jack-clark.net/wp-content/uploads/2026/08/https3A2F2Fsubstack-post-media.s3.amazonaws.com2Fpublic2Fimages2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x258-arfQ8K.png?resize=150%2C150&amp;ssl=1",
+      "author": "Jack Clark",
+      "category": "Research",
+      "publishedAt": "2026-08-17T13:05:36.000Z",
+      "readingMinutes": 4,
+      "score": 99,
+      "whyItMatters": "AI 연구의 실전 감도와 산업 변화의 속도를 동시에 잡게 해준다.",
+      "excerpt": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now DiG-bench shows that Fable displays some creative intuitio",
+      "tags": [
+        "import-ai",
+        "uncategorized"
+      ],
+      "isNew": false
+    },
+    {
+      "id": "aHR0cHM6Ly9qYWNrLWNsYXJrLm5ldC8yMDI2LzA4LzEwL2ltcG9ydC1haS00NjgtMjMtcnNpLWlkZWFzLXBvc3R0cmFpbmJlbmNoLWFuZC1ob3ctdHJ1c3QtYW5kLXRyYW5zcGFyZW5jeS1pbnRlcnBsYXktd2l0aC1haS1yYWNpbmcv",
+      "title": "Import AI 468: 23 RSI ideas; PostTrainBench+; and how trust and transparency interplay with AI racing",
+      "source": "Import AI",
+      "sourceUrl": "https://jack-clark.net/feed/",
+      "articleUrl": "https://jack-clark.net/2026/08/10/import-ai-468-23-rsi-ideas-posttrainbench-and-how-trust-and-transparency-interplay-with-ai-racing/",
+      "thumbnailUrl": "https://i0.wp.com/jack-clark.net/wp-content/uploads/2026/08/https3A2F2Fsubstack-post-media.s3.amazonaws.com2Fpublic2Fimages2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x258-VIkdsj.png?resize=150%2C150&amp;ssl=1",
+      "author": "Jack Clark",
+      "category": "Research",
+      "publishedAt": "2026-08-10T12:32:20.000Z",
+      "readingMinutes": 4,
+      "score": 99,
+      "whyItMatters": "AI 연구의 실전 감도와 산업 변화의 속도를 동시에 잡게 해준다.",
+      "excerpt": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now Want to be able to deal with RSI? Here are 23 actionable p",
+      "tags": [
+        "import-ai",
+        "uncategorized"
+      ],
+      "isNew": false
     }
   ]
 }
