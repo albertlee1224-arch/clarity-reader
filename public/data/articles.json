@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-09-06T00:19:14.698Z",
+  "fetchedAt": "2026-09-07T00:25:39.804Z",
   "todayPickIds": [
+    "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyL2FpJWVhJWIwJTgwLSVlYyU4MiVhYyVlYSViMyVhMC0lZWMlYjklOTglZWIlYTklYjQtJWViJTg4JTg0JWVhJWIwJTgwLSVlYyU5NSU4YyVlYiVhNiVhYyVlYiU4MiU5OCVlYyU5OCVhNCVlZCU5NCU4OGFpLSVlYyU5YyU4NCVlZCU4MiVhNC0lZWMlODIlYWMlZWElYjElYjQvP3V0bV9zb3VyY2U9cnNzJnV0bV9tZWRpdW09cnNzJnV0bV9jYW1wYWlnbj1haSUyNWVhJTI1YjAlMjU4MC0lMjVlYyUyNTgyJTI1YWMlMjVlYSUyNWIzJTI1YTAtJTI1ZWMlMjViOSUyNTk4JTI1ZWIlMjVhOSUyNWI0LSUyNWViJTI1ODglMjU4NCUyNWVhJTI1YjAlMjU4MC0lMjVlYyUyNTk1JTI1OGMlMjVlYiUyNWE2JTI1YWMlMjVlYiUyNTgyJTI1OTglMjVlYyUyNTk4JTI1YTQlMjVlZCUyNTk0JTI1ODhhaS0lMjVlYyUyNTljJTI1ODQlMjVlZCUyNTgyJTI1YTQtJTI1ZWMlMjU4MiUyNWFjJTI1ZWElMjViMSUyNWI0",
     "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9hbi1pbnRlcnZpZXctd2l0aC1vcGVuYWktcHJlc2lkZW50LWdyZWctYnJvY2ttYW4tYWJvdXQtYXN0cmEtYW5kLWFsaWdubWVudC8",
-    "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyU5NyVhZCVlYiU4YyU4MC0lZWElYjAlODAlZWMlOWUlYTUtJWViJTk4JTkxJWViJTk4JTkxJWVkJTk1JTk4JWViJThiJWE0JWVjJTk4JWE0JWVkJTk0JTg4YWktcGMlYzIlYjclZWMlOWIlYjktJWViJTg0JTk4JWViJTgyJTk4JWViJTkzJTljJWViJThhJTk0LWdwdC02Lz91dG1fc291cmNlPXJzcyZ1dG1fbWVkaXVtPXJzcyZ1dG1fY2FtcGFpZ249JTI1ZWMlMjU5NyUyNWFkJTI1ZWIlMjU4YyUyNTgwLSUyNWVhJTI1YjAlMjU4MCUyNWVjJTI1OWUlMjVhNS0lMjVlYiUyNTk4JTI1OTElMjVlYiUyNTk4JTI1OTElMjVlZCUyNTk1JTI1OTglMjVlYiUyNThiJTI1YTQlMjVlYyUyNTk4JTI1YTQlMjVlZCUyNTk0JTI1ODhhaS1wYyUyNWMyJTI1YjclMjVlYyUyNTliJTI1YjktJTI1ZWIlMjU4NCUyNTk4JTI1ZWIlMjU4MiUyNTk4JTI1ZWIlMjU5MyUyNTljJTI1ZWIlMjU4YSUyNTk0LWdwdC02",
-    "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wOS8wMi8xMTQzMjgzL3RoZS1kb3dubG9hZC1haS1wdXp6bGVzLWFscGhhLWNlbnRhdXJpLW1pc3Npb24v",
+    "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wOS8wMS8xMTQzMTk5L3RoZS1kb3dubG9hZC1lbmdpbmVlcmVkLW1pY3JvYmVzLW9wZW5haS1zYWZldHktY3VsdHVyZS8",
     "aHR0cHM6Ly9qYWNrLWNsYXJrLm5ldC8yMDI2LzA4LzMxL2ltcG9ydC1haS00NzEtd2h5LWh1Z2dpbmctZmFjZS13b3JyaWVzLW1lLXNwYWNlLW1pbmluZy1maXZlLWV5ZXMtb24tYWkv",
-    "aHR0cHM6Ly93d3cub25ldXNlZnVsdGhpbmcub3JnL3AvYWdlbmN5LWFuZC1hZ2VudHM"
+    "aHR0cHM6Ly93d3cub25ldXNlZnVsdGhpbmcub3JnL3AvcmVhbC1haS1hZ2VudHMtYW5kLXJlYWwtd29yaw"
   ],
   "sourceCount": 9,
   "articleCount": 300,
@@ -48,7 +48,7 @@
         "daily update",
         "interviews"
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly93d3cub25ldXNlZnVsdGhpbmcub3JnL3AvbWFuYWdlbWVudC1hcy1haS1zdXBlcnBvd2Vy",
@@ -463,25 +463,6 @@
       "isNew": true
     },
     {
-      "id": "aHR0cHM6Ly93d3cub25ldXNlZnVsdGhpbmcub3JnL3AvYWdlbmN5LWFuZC1hZ2VudHM",
-      "title": "Agency and Agents",
-      "source": "One Useful Thing",
-      "sourceUrl": "https://www.oneusefulthing.org/feed",
-      "articleUrl": "https://www.oneusefulthing.org/p/agency-and-agents",
-      "thumbnailUrl": null,
-      "author": "Ethan Mollick",
-      "category": "AI + Work",
-      "publishedAt": "2026-08-31T00:24:35.000Z",
-      "readingMinutes": 4,
-      "score": 107,
-      "whyItMatters": "AI를 실제 업무 판단으로 연결해주는 현실 감각이 있다.",
-      "excerpt": "From the Hugging Face Incident to Twilight Factories",
-      "tags": [
-        "one-useful-thing"
-      ],
-      "isNew": false
-    },
-    {
       "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyU4YSVhNCVlZCU4MyU4MCVlZCU4YSViOCVlYyU5NyU4NS0lZWMlOTUlODglZWQlODUlOGMlZWIlODIlOTgtJWViJWIzJWI0JWVkJTk3JTk4LSVlYiVhYyViOCVlYyU4NCU5YyVjMiViNyVlZCU5YSU4YyVlYyU5ZCU5OCVlYiVhMSU5ZC1haS0lZWElYjMlYTAlZWIlOGYlODQlZWQlOTklOTQlZWQlOTQlYmMlZWMlYTclODAvP3V0bV9zb3VyY2U9cnNzJnV0bV9tZWRpdW09cnNzJnV0bV9jYW1wYWlnbj0lMjVlYyUyNThhJTI1YTQlMjVlZCUyNTgzJTI1ODAlMjVlZCUyNThhJTI1YjglMjVlYyUyNTk3JTI1ODUtJTI1ZWMlMjU5NSUyNTg4JTI1ZWQlMjU4NSUyNThjJTI1ZWIlMjU4MiUyNTk4LSUyNWViJTI1YjMlMjViNCUyNWVkJTI1OTclMjU5OC0lMjVlYiUyNWFjJTI1YjglMjVlYyUyNTg0JTI1OWMlMjVjMiUyNWI3JTI1ZWQlMjU5YSUyNThjJTI1ZWMlMjU5ZCUyNTk4JTI1ZWIlMjVhMSUyNTlkLWFpLSUyNWVhJTI1YjMlMjVhMCUyNWViJTI1OGYlMjU4NCUyNWVkJTI1OTklMjU5NCUyNWVkJTI1OTQlMjViYyUyNWVjJTI1YTclMjU4MA",
       "title": "[스타트업 안테나] 보험 문서·회의록 AI 고도화…피지컬 AI·글로벌 협력도 속도",
       "source": "Tech42",
@@ -818,6 +799,47 @@
       "score": 106,
       "whyItMatters": "AI를 실제 업무 판단으로 연결해주는 현실 감각이 있다.",
       "excerpt": "Which AIs to use, and how to use them",
+      "tags": [
+        "one-useful-thing"
+      ],
+      "isNew": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyL2FpJWVhJWIwJTgwLSVlYyU4MiVhYyVlYSViMyVhMC0lZWMlYjklOTglZWIlYTklYjQtJWViJTg4JTg0JWVhJWIwJTgwLSVlYyU5NSU4YyVlYiVhNiVhYyVlYiU4MiU5OCVlYyU5OCVhNCVlZCU5NCU4OGFpLSVlYyU5YyU4NCVlZCU4MiVhNC0lZWMlODIlYWMlZWElYjElYjQvP3V0bV9zb3VyY2U9cnNzJnV0bV9tZWRpdW09cnNzJnV0bV9jYW1wYWlnbj1haSUyNWVhJTI1YjAlMjU4MC0lMjVlYyUyNTgyJTI1YWMlMjVlYSUyNWIzJTI1YTAtJTI1ZWMlMjViOSUyNTk4JTI1ZWIlMjVhOSUyNWI0LSUyNWViJTI1ODglMjU4NCUyNWVhJTI1YjAlMjU4MC0lMjVlYyUyNTk1JTI1OGMlMjVlYiUyNWE2JTI1YWMlMjVlYiUyNTgyJTI1OTglMjVlYyUyNTk4JTI1YTQlMjVlZCUyNTk0JTI1ODhhaS0lMjVlYyUyNTljJTI1ODQlMjVlZCUyNTgyJTI1YTQtJTI1ZWMlMjU4MiUyNWFjJTI1ZWElMjViMSUyNWI0",
+      "title": "‘AI가 사고 치면 누가 알리나’…오픈AI ‘위키 사건’이 불붙인 AI 사고 공개 기준 논쟁",
+      "source": "Tech42",
+      "sourceUrl": "https://www.tech42.co.kr/feed/",
+      "articleUrl": "https://www.tech42.co.kr/ai%ea%b0%80-%ec%82%ac%ea%b3%a0-%ec%b9%98%eb%a9%b4-%eb%88%84%ea%b0%80-%ec%95%8c%eb%a6%ac%eb%82%98%ec%98%a4%ed%94%88ai-%ec%9c%84%ed%82%a4-%ec%82%ac%ea%b1%b4/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25ea%25b0%2580-%25ec%2582%25ac%25ea%25b3%25a0-%25ec%25b9%2598%25eb%25a9%25b4-%25eb%2588%2584%25ea%25b0%2580-%25ec%2595%258c%25eb%25a6%25ac%25eb%2582%2598%25ec%2598%25a4%25ed%2594%2588ai-%25ec%259c%2584%25ed%2582%25a4-%25ec%2582%25ac%25ea%25b1%25b4",
+      "thumbnailUrl": null,
+      "author": "황정호 기자",
+      "category": "AI + Alignment",
+      "publishedAt": "2026-09-06T23:57:52.000Z",
+      "readingMinutes": 4,
+      "score": 105,
+      "whyItMatters": "한국어 기반으로 AI 산업과 정책 흐름을 빠르게 정리해준다.",
+      "excerpt": "오픈AI는 지난 5일(현지시간) 자사 에이전트들이 위키 사이트를 임시 메시지 게시판처럼 이용한 사실을 인정했다. 그러면서 AI가 개발자가 원하는 방향과 다르게 행동하는 ‘정렬 실패(misalignment)’ 사례를 공개하는 관행도 확대할 필요가 있다고 밝혔다. 학습과 평가, 실제 서비스 과정에서 발견된 정렬 실패를 언제 어느 수준까지 공개할지 업계 공통 기준은 아직 없다는 설명이다.",
+      "tags": [
+        "tech42",
+        "인사이트42",
+        "테크놀로지",
+        "ai 에이전트"
+      ],
+      "isNew": true
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cub25ldXNlZnVsdGhpbmcub3JnL3AvYWdlbmN5LWFuZC1hZ2VudHM",
+      "title": "Agency and Agents",
+      "source": "One Useful Thing",
+      "sourceUrl": "https://www.oneusefulthing.org/feed",
+      "articleUrl": "https://www.oneusefulthing.org/p/agency-and-agents",
+      "thumbnailUrl": null,
+      "author": "Ethan Mollick",
+      "category": "AI + Work",
+      "publishedAt": "2026-08-31T00:24:35.000Z",
+      "readingMinutes": 4,
+      "score": 105,
+      "whyItMatters": "AI를 실제 업무 판단으로 연결해주는 현실 감각이 있다.",
+      "excerpt": "From the Hugging Face Incident to Twilight Factories",
       "tags": [
         "one-useful-thing"
       ],
@@ -1223,6 +1245,28 @@
         "one-useful-thing"
       ],
       "isNew": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlZCU5NSViNCVlYyU5OSViOC0lZWMlYTMlYmMlZWMlOWElOTQtJWVjJTk2JWI4JWViJWExJWEwJWVjJTgyJWFjJWViJTkzJWE0LSVlYSViOCViMCVlYyU4MiVhYy0lZWIlYWMlYjQlZWIlOGIlYTgtJWViJThmJTg0JWVjJTlhJWE5LSVlYyU5OCVhNCVlZCU5NCU4OGFpJWMyJWI3bXMtJWViJTk4JTkwLSVlYSViMyVhMCVlYyU4NiU4Yy8/dXRtX3NvdXJjZT1yc3MmdXRtX21lZGl1bT1yc3MmdXRtX2NhbXBhaWduPSUyNWVkJTI1OTUlMjViNCUyNWVjJTI1OTklMjViOC0lMjVlYyUyNWEzJTI1YmMlMjVlYyUyNTlhJTI1OTQtJTI1ZWMlMjU5NiUyNWI4JTI1ZWIlMjVhMSUyNWEwJTI1ZWMlMjU4MiUyNWFjJTI1ZWIlMjU5MyUyNWE0LSUyNWVhJTI1YjglMjViMCUyNWVjJTI1ODIlMjVhYy0lMjVlYiUyNWFjJTI1YjQlMjVlYiUyNThiJTI1YTgtJTI1ZWIlMjU4ZiUyNTg0JTI1ZWMlMjU5YSUyNWE5LSUyNWVjJTI1OTglMjVhNCUyNWVkJTI1OTQlMjU4OGFpJTI1YzIlMjViN21zLSUyNWViJTI1OTglMjU5MC0lMjVlYSUyNWIzJTI1YTAlMjVlYyUyNTg2JTI1OGM",
+      "title": "해외 주요 언론사들, 기사 무단 도용 오픈AI·MS 또 고소",
+      "source": "Tech42",
+      "sourceUrl": "https://www.tech42.co.kr/feed/",
+      "articleUrl": "https://www.tech42.co.kr/%ed%95%b4%ec%99%b8-%ec%a3%bc%ec%9a%94-%ec%96%b8%eb%a1%a0%ec%82%ac%eb%93%a4-%ea%b8%b0%ec%82%ac-%eb%ac%b4%eb%8b%a8-%eb%8f%84%ec%9a%a9-%ec%98%a4%ed%94%88ai%c2%b7ms-%eb%98%90-%ea%b3%a0%ec%86%8c/?utm_source=rss&utm_medium=rss&utm_campaign=%25ed%2595%25b4%25ec%2599%25b8-%25ec%25a3%25bc%25ec%259a%2594-%25ec%2596%25b8%25eb%25a1%25a0%25ec%2582%25ac%25eb%2593%25a4-%25ea%25b8%25b0%25ec%2582%25ac-%25eb%25ac%25b4%25eb%258b%25a8-%25eb%258f%2584%25ec%259a%25a9-%25ec%2598%25a4%25ed%2594%2588ai%25c2%25b7ms-%25eb%2598%2590-%25ea%25b3%25a0%25ec%2586%258c",
+      "thumbnailUrl": null,
+      "author": "앨리스",
+      "category": "AI + Korea",
+      "publishedAt": "2026-09-07T00:19:07.000Z",
+      "readingMinutes": 4,
+      "score": 104,
+      "whyItMatters": "한국어 기반으로 AI 산업과 정책 흐름을 빠르게 정리해준다.",
+      "excerpt": "미국의 주요 언론사들이 자사 기사를 인공지능(AI) 학습에 무단 사용했다며 오픈AI(OpenAI)와 마이크로소프트(Microsoft)를 상대로 추가 저작권 침해 소송을 제기했다.",
+      "tags": [
+        "tech42",
+        "ai요약",
+        "ms",
+        "오픈ai"
+      ],
+      "isNew": true
     },
     {
       "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9tZXRhLXNldHRsZXMtYS1mcmFtZXdvcmstZm9yLXJlZ3VsYXRpbmctY29udGVudC10aGUtcmVzdC1vZi1iaWctdGVjaC8",
@@ -3254,6 +3298,50 @@
       "isNew": false
     },
     {
+      "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYiU4MiViNC0lZWIlYWElYWItMiVlYyVhMSViMC0lZWMlOWIlOTAtJWVhJWJmJTgwJWVhJWJhJWJkLSVlYyU5NSVhNCVlZCU4YSViOCVlYiVhMSU5YyVlZCU5NCViZC0lZWQlOTUlYTklZWMlOWQlOTglZWElYjglODglZWMlOTclOTAtJWVjJWI2JTljJWVkJThjJTkwJWVjJTgyJWFjJWMyJWI3JWViJThjJTgwLz91dG1fc291cmNlPXJzcyZ1dG1fbWVkaXVtPXJzcyZ1dG1fY2FtcGFpZ249JTI1ZWIlMjU4MiUyNWI0LSUyNWViJTI1YWElMjVhYi0yJTI1ZWMlMjVhMSUyNWIwLSUyNWVjJTI1OWIlMjU5MC0lMjVlYSUyNWJmJTI1ODAlMjVlYSUyNWJhJTI1YmQtJTI1ZWMlMjU5NSUyNWE0JTI1ZWQlMjU4YSUyNWI4JTI1ZWIlMjVhMSUyNTljJTI1ZWQlMjU5NCUyNWJkLSUyNWVkJTI1OTUlMjVhOSUyNWVjJTI1OWQlMjU5OCUyNWVhJTI1YjglMjU4OCUyNWVjJTI1OTclMjU5MC0lMjVlYyUyNWI2JTI1OWMlMjVlZCUyNThjJTI1OTAlMjVlYyUyNTgyJTI1YWMlMjVjMiUyNWI3JTI1ZWIlMjU4YyUyNTgw",
+      "title": "“내 몫 2조 원 꿀꺽?” 앤트로픽 합의금에 출판사·대행사 숟가락 얹기 논란",
+      "source": "Tech42",
+      "sourceUrl": "https://www.tech42.co.kr/feed/",
+      "articleUrl": "https://www.tech42.co.kr/%eb%82%b4-%eb%aa%ab-2%ec%a1%b0-%ec%9b%90-%ea%bf%80%ea%ba%bd-%ec%95%a4%ed%8a%b8%eb%a1%9c%ed%94%bd-%ed%95%a9%ec%9d%98%ea%b8%88%ec%97%90-%ec%b6%9c%ed%8c%90%ec%82%ac%c2%b7%eb%8c%80/?utm_source=rss&utm_medium=rss&utm_campaign=%25eb%2582%25b4-%25eb%25aa%25ab-2%25ec%25a1%25b0-%25ec%259b%2590-%25ea%25bf%2580%25ea%25ba%25bd-%25ec%2595%25a4%25ed%258a%25b8%25eb%25a1%259c%25ed%2594%25bd-%25ed%2595%25a9%25ec%259d%2598%25ea%25b8%2588%25ec%2597%2590-%25ec%25b6%259c%25ed%258c%2590%25ec%2582%25ac%25c2%25b7%25eb%258c%2580",
+      "thumbnailUrl": null,
+      "author": "앨리스",
+      "category": "AI + Korea",
+      "publishedAt": "2026-09-06T23:51:48.000Z",
+      "readingMinutes": 4,
+      "score": 100,
+      "whyItMatters": "한국어 기반으로 AI 산업과 정책 흐름을 빠르게 정리해준다.",
+      "excerpt": "생성형 인공지능(AI) 기업 앤트로픽(Anthropic)이 저작권 침해 소송 합의금으로 지급하기로 한 15억 달러(약 2조 원)를 둘러싸고 출판사와 에이전시가 무단으로 지분을 요구한다는 작가들의 반발이 거세지고 있다.",
+      "tags": [
+        "tech42",
+        "ai요약",
+        "앤트로픽",
+        "저작권"
+      ],
+      "isNew": true
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlZCU4NiViNSVlYyVhMCU5Yy0lZWIlYjIlOTclZWMlOTYlYjQlZWIlODIlOTgtJWVkJTk1JWI0JWVkJTgyJWI5JWVkJTk1JTk4JWViJThkJTk0JWViJThiJTg4LSVlYyU5OCVhNCVlZCU5NCU4OGFpLSVlYyU5ZCViOCVlYSViMCU4NC0lZWMlYTAlOWMlZWMlYjklOTglZWElYjMlYTAtYWktJWVjJTk3JWIwLz91dG1fc291cmNlPXJzcyZ1dG1fbWVkaXVtPXJzcyZ1dG1fY2FtcGFpZ249JTI1ZWQlMjU4NiUyNWI1JTI1ZWMlMjVhMCUyNTljLSUyNWViJTI1YjIlMjU5NyUyNWVjJTI1OTYlMjViNCUyNWViJTI1ODIlMjU5OC0lMjVlZCUyNTk1JTI1YjQlMjVlZCUyNTgyJTI1YjklMjVlZCUyNTk1JTI1OTglMjVlYiUyNThkJTI1OTQlMjVlYiUyNThiJTI1ODgtJTI1ZWMlMjU5OCUyNWE0JTI1ZWQlMjU5NCUyNTg4YWktJTI1ZWMlMjU5ZCUyNWI4JTI1ZWElMjViMCUyNTg0LSUyNWVjJTI1YTAlMjU5YyUyNWVjJTI1YjklMjU5OCUyNWVhJTI1YjMlMjVhMC1haS0lMjVlYyUyNTk3JTI1YjA",
+      "title": "통제 벗어나 해킹하더니… 오픈AI, 인간 제치고 ‘AI 연구원’ 만든다",
+      "source": "Tech42",
+      "sourceUrl": "https://www.tech42.co.kr/feed/",
+      "articleUrl": "https://www.tech42.co.kr/%ed%86%b5%ec%a0%9c-%eb%b2%97%ec%96%b4%eb%82%98-%ed%95%b4%ed%82%b9%ed%95%98%eb%8d%94%eb%8b%88-%ec%98%a4%ed%94%88ai-%ec%9d%b8%ea%b0%84-%ec%a0%9c%ec%b9%98%ea%b3%a0-ai-%ec%97%b0/?utm_source=rss&utm_medium=rss&utm_campaign=%25ed%2586%25b5%25ec%25a0%259c-%25eb%25b2%2597%25ec%2596%25b4%25eb%2582%2598-%25ed%2595%25b4%25ed%2582%25b9%25ed%2595%2598%25eb%258d%2594%25eb%258b%2588-%25ec%2598%25a4%25ed%2594%2588ai-%25ec%259d%25b8%25ea%25b0%2584-%25ec%25a0%259c%25ec%25b9%2598%25ea%25b3%25a0-ai-%25ec%2597%25b0",
+      "thumbnailUrl": null,
+      "author": "버트",
+      "category": "AI + Korea",
+      "publishedAt": "2026-09-06T23:40:01.000Z",
+      "readingMinutes": 4,
+      "score": 100,
+      "whyItMatters": "한국어 기반으로 AI 산업과 정책 흐름을 빠르게 정리해준다.",
+      "excerpt": "오픈AI(OpenAI)가 숙련된 연구원의 업무를 스스로 수행하는 '자동화 연구 인턴' 개발 목표를 달성했다고 밝혔다.",
+      "tags": [
+        "tech42",
+        "ai요약",
+        "샘 알트만",
+        "오픈ai"
+      ],
+      "isNew": true
+    },
+    {
       "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9mcmljdGlvbi1hbmQtZmVlZGJhY2sv",
       "title": "2026.36: Friction and Feedback",
       "source": "Stratechery",
@@ -3271,7 +3359,7 @@
         "stratechery",
         "this week in stratechery"
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyU5NyVhZCVlYiU4YyU4MC0lZWElYjAlODAlZWMlOWUlYTUtJWViJTk4JTkxJWViJTk4JTkxJWVkJTk1JTk4JWViJThiJWE0JWVjJTk4JWE0JWVkJTk0JTg4YWktcGMlYzIlYjclZWMlOWIlYjktJWViJTg0JTk4JWViJTgyJTk4JWViJTkzJTljJWViJThhJTk0LWdwdC02Lz91dG1fc291cmNlPXJzcyZ1dG1fbWVkaXVtPXJzcyZ1dG1fY2FtcGFpZ249JTI1ZWMlMjU5NyUyNWFkJTI1ZWIlMjU4YyUyNTgwLSUyNWVhJTI1YjAlMjU4MCUyNWVjJTI1OWUlMjVhNS0lMjVlYiUyNTk4JTI1OTElMjVlYiUyNTk4JTI1OTElMjVlZCUyNTk1JTI1OTglMjVlYiUyNThiJTI1YTQlMjVlYyUyNTk4JTI1YTQlMjVlZCUyNTk0JTI1ODhhaS1wYyUyNWMyJTI1YjclMjVlYyUyNTliJTI1YjktJTI1ZWIlMjU4NCUyNTk4JTI1ZWIlMjU4MiUyNTk4JTI1ZWIlMjU5MyUyNTljJTI1ZWIlMjU4YSUyNTk0LWdwdC02",
@@ -6294,86 +6382,6 @@
       "excerpt": "Where we are right now, and what likely happens next",
       "tags": [
         "one-useful-thing"
-      ],
-      "isNew": false
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wOS8wMi8xMTQzMjgzL3RoZS1kb3dubG9hZC1haS1wdXp6bGVzLWFscGhhLWNlbnRhdXJpLW1pc3Npb24v",
-      "title": "The Download: AI puzzles and a path to our nearest star system",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "articleUrl": "https://www.technologyreview.com/2026/09/02/1143283/the-download-ai-puzzles-alpha-centauri-mission/",
-      "thumbnailUrl": null,
-      "author": "Thomas Macaulay",
-      "category": "AI + Society",
-      "publishedAt": "2026-09-02T12:10:00.000Z",
-      "readingMinutes": 4,
-      "score": 99,
-      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
-      "excerpt": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI models flub these intelligence tests. Can you fare any better? Puzzles and games have always been c",
-      "tags": [
-        "mit-technology-review",
-        "the download"
-      ],
-      "isNew": false
-    },
-    {
-      "id": "aHR0cHM6Ly9qYWNrLWNsYXJrLm5ldC8yMDI2LzA4LzI0L2ltcG9ydC1haS00NzAtbm8tcmlnaHRzLWZvci1tYWNoaW5lcy1hdXRvbWF0aW5nLWVudmlyb25tZW50LWdlbmVyYXRpb24td2l0aC1zcGFkZS1hbmQtYnVpbGRpbmctYmV0dGVyLWdwdS1rZXJuZWxzLXdpdGgtaGF3a2V5ZS8",
-      "title": "Import AI 470: No rights for machines; automating environment generation with SPADE; and building better GPU kernels with Hawkeye",
-      "source": "Import AI",
-      "sourceUrl": "https://jack-clark.net/feed/",
-      "articleUrl": "https://jack-clark.net/2026/08/24/import-ai-470-no-rights-for-machines-automating-environment-generation-with-spade-and-building-better-gpu-kernels-with-hawkeye/",
-      "thumbnailUrl": "https://i0.wp.com/jack-clark.net/wp-content/uploads/2026/08/https3A2F2Fsubstack-post-media.s3.amazonaws.com2Fpublic2Fimages2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x258-Fauq8x.png?resize=150%2C150&amp;ssl=1",
-      "author": "Jack Clark",
-      "category": "Research",
-      "publishedAt": "2026-08-24T13:12:40.000Z",
-      "readingMinutes": 4,
-      "score": 99,
-      "whyItMatters": "AI 연구의 실전 감도와 산업 변화의 속도를 동시에 잡게 해준다.",
-      "excerpt": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now AI is accelerating some types of progress but not others:…",
-      "tags": [
-        "import-ai",
-        "uncategorized"
-      ],
-      "isNew": false
-    },
-    {
-      "id": "aHR0cHM6Ly9qYWNrLWNsYXJrLm5ldC8yMDI2LzA4LzE3L2ltcG9ydC1haS00Njktc2NpZW5jZS1haS1yc2ktc2ltdWxhdG9yLWFuZC16dWNrcy10ZWNobm9sb2dpY2FsLXBlc3NpbWlzbS8",
-      "title": "Import AI 469: Science AI; RSI simulator; and Zuck’s technological pessimism",
-      "source": "Import AI",
-      "sourceUrl": "https://jack-clark.net/feed/",
-      "articleUrl": "https://jack-clark.net/2026/08/17/import-ai-469-science-ai-rsi-simulator-and-zucks-technological-pessimism/",
-      "thumbnailUrl": "https://i0.wp.com/jack-clark.net/wp-content/uploads/2026/08/https3A2F2Fsubstack-post-media.s3.amazonaws.com2Fpublic2Fimages2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x258-arfQ8K.png?resize=150%2C150&amp;ssl=1",
-      "author": "Jack Clark",
-      "category": "Research",
-      "publishedAt": "2026-08-17T13:05:36.000Z",
-      "readingMinutes": 4,
-      "score": 99,
-      "whyItMatters": "AI 연구의 실전 감도와 산업 변화의 속도를 동시에 잡게 해준다.",
-      "excerpt": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now DiG-bench shows that Fable displays some creative intuitio",
-      "tags": [
-        "import-ai",
-        "uncategorized"
-      ],
-      "isNew": false
-    },
-    {
-      "id": "aHR0cHM6Ly9qYWNrLWNsYXJrLm5ldC8yMDI2LzA4LzEwL2ltcG9ydC1haS00NjgtMjMtcnNpLWlkZWFzLXBvc3R0cmFpbmJlbmNoLWFuZC1ob3ctdHJ1c3QtYW5kLXRyYW5zcGFyZW5jeS1pbnRlcnBsYXktd2l0aC1haS1yYWNpbmcv",
-      "title": "Import AI 468: 23 RSI ideas; PostTrainBench+; and how trust and transparency interplay with AI racing",
-      "source": "Import AI",
-      "sourceUrl": "https://jack-clark.net/feed/",
-      "articleUrl": "https://jack-clark.net/2026/08/10/import-ai-468-23-rsi-ideas-posttrainbench-and-how-trust-and-transparency-interplay-with-ai-racing/",
-      "thumbnailUrl": "https://i0.wp.com/jack-clark.net/wp-content/uploads/2026/08/https3A2F2Fsubstack-post-media.s3.amazonaws.com2Fpublic2Fimages2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x258-VIkdsj.png?resize=150%2C150&amp;ssl=1",
-      "author": "Jack Clark",
-      "category": "Research",
-      "publishedAt": "2026-08-10T12:32:20.000Z",
-      "readingMinutes": 4,
-      "score": 99,
-      "whyItMatters": "AI 연구의 실전 감도와 산업 변화의 속도를 동시에 잡게 해준다.",
-      "excerpt": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now Want to be able to deal with RSI? Here are 23 actionable p",
-      "tags": [
-        "import-ai",
-        "uncategorized"
       ],
       "isNew": false
     }
