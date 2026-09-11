@@ -1,10 +1,10 @@
 {
-  "fetchedAt": "2026-09-10T00:41:25.259Z",
+  "fetchedAt": "2026-09-11T00:38:09.586Z",
   "todayPickIds": [
-    "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9vcGVuYWktZG9lcy1tYXRoLXJld2FyZC1oYWNraW5nLW1ldGEtbGF1bmNoZXMtcGVyc29uYWwtYWdlbnQv",
-    "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlZCU5NSU5YyVlYSViNSVhZCVlYyU5NiViNC0lZWIlOTMlOWMlZWIlOTQlOTQlZWMlOTYlYjQtJWVkJTg2JWI1JWVkJTk2JTg4JWViJThiJWE0JWVjJTk1JWEwJWVkJTk0JThjLTEwJWVjJTliJTk0JWViJWI2JTgwJWVkJTg0JWIwLSVlYyU4YiU5YyVlYiVhNiVhYy1haS8/dXRtX3NvdXJjZT1yc3MmdXRtX21lZGl1bT1yc3MmdXRtX2NhbXBhaWduPSUyNWVkJTI1OTUlMjU5YyUyNWVhJTI1YjUlMjVhZCUyNWVjJTI1OTYlMjViNC0lMjVlYiUyNTkzJTI1OWMlMjVlYiUyNTk0JTI1OTQlMjVlYyUyNTk2JTI1YjQtJTI1ZWQlMjU4NiUyNWI1JTI1ZWQlMjU5NiUyNTg4JTI1ZWIlMjU4YiUyNWE0JTI1ZWMlMjU5NSUyNWEwJTI1ZWQlMjU5NCUyNThjLTEwJTI1ZWMlMjU5YiUyNTk0JTI1ZWIlMjViNiUyNTgwJTI1ZWQlMjU4NCUyNWIwLSUyNWVjJTI1OGIlMjU5YyUyNWViJTI1YTYlMjVhYy1haQ",
+    "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi90aGUtaXBob25lLWR1by10aGUtaW50ZWxsaWdlbnQtcGVyc29uYWwtaHViLWFwcGxlLXdhdGNoLWF1ZGlvLWludGVsbGlnZW5jZS8",
+    "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlZCU4NiVhMCVlYyU4YSVhNCVlYyU5ZCViOCVlYyU4MiVhYyVlYyU5ZCViNCVlZCU4YSViOC0lZWElYjglODglZWMlOWMlYjUtJWVjJTk1JWIxLSVlYSViMiViZCVlYyU5ZiU4MS1haSVlYSViMCU4MC0lZWMlODQlYTAlZWQlODMlOWQlZWQlOTUlOTglZWIlOGElOTQtJWVhJWI1JWFjJWVjJWExJWIwLz91dG1fc291cmNlPXJzcyZ1dG1fbWVkaXVtPXJzcyZ1dG1fY2FtcGFpZ249JTI1ZWQlMjU4NiUyNWEwJTI1ZWMlMjU4YSUyNWE0JTI1ZWMlMjU5ZCUyNWI4JTI1ZWMlMjU4MiUyNWFjJTI1ZWMlMjU5ZCUyNWI0JTI1ZWQlMjU4YSUyNWI4LSUyNWVhJTI1YjglMjU4OCUyNWVjJTI1OWMlMjViNS0lMjVlYyUyNTk1JTI1YjEtJTI1ZWElMjViMiUyNWJkJTI1ZWMlMjU5ZiUyNTgxLWFpJTI1ZWElMjViMCUyNTgwLSUyNWVjJTI1ODQlMjVhMCUyNWVkJTI1ODMlMjU5ZCUyNWVkJTI1OTUlMjU5OCUyNWViJTI1OGElMjU5NC0lMjVlYSUyNWI1JTI1YWMlMjVlYyUyNWExJTI1YjA",
+    "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL3dob3NlLWFpLXdpbGwtcnVsZS10aGUtd29ybGQ",
     "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wOS8wOS8xMTQzNzY3L3RoZS1kb3dubG9hZC1vcGVuYWktbWF0aC1mdXR1cmUtYmF0dGVyeS1yZWNvcmQv",
-    "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL2EtbmV3LWtpbmQtb2YtY3JlYXRpdmUtcG92ZXJ0eQ",
     "aHR0cHM6Ly9qYWNrLWNsYXJrLm5ldC8yMDI2LzA5LzA3L2ltcG9ydC1haS00NzItZGVlcG1pbmRzLWNoZWF0aW5nLW1hdGgtYWdlbnRzLXBvcHVsaXN0LWFpLXBvbGljaWVzLWFuZC1mb3JldGhvdWdodC10aGVvcml6ZXMtYS1uaWdodHdhdGNobWFuLw"
   ],
   "sourceCount": 9,
@@ -30,19 +30,19 @@
       "isNew": false
     },
     {
-      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9vcGVuYWktZG9lcy1tYXRoLXJld2FyZC1oYWNraW5nLW1ldGEtbGF1bmNoZXMtcGVyc29uYWwtYWdlbnQv",
-      "title": "OpenAI Does Math, Reward-Hacking, Meta Launches Personal Agent",
+      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi90aGUtaXBob25lLWR1by10aGUtaW50ZWxsaWdlbnQtcGVyc29uYWwtaHViLWFwcGxlLXdhdGNoLWF1ZGlvLWludGVsbGlnZW5jZS8",
+      "title": "The iPhone Duo, The Intelligent Personal Hub, Apple Watch Audio Intelligence",
       "source": "Stratechery",
       "sourceUrl": "https://stratechery.com/feed/",
-      "articleUrl": "https://stratechery.com/2026/openai-does-math-reward-hacking-meta-launches-personal-agent/",
+      "articleUrl": "https://stratechery.com/2026/the-iphone-duo-the-intelligent-personal-hub-apple-watch-audio-intelligence/",
       "thumbnailUrl": null,
       "author": "Ben Thompson",
       "category": "Business Strategy",
-      "publishedAt": "2026-09-09T10:00:00.000Z",
+      "publishedAt": "2026-09-10T10:00:00.000Z",
       "readingMinutes": 4,
       "score": 115,
-      "whyItMatters": "AI 변화가 사회와 일에 어떤 파장을 만드는지 읽게 해준다.",
-      "excerpt": "OpenAI solving one of the most famous math problems is extremely impressive, and of little impact to most people's lives; Meta's Muse agent launch has the potential to be the exact opposite.",
+      "whyItMatters": "정보보다 해석, 속보보다 관점을 남기는 글에 가깝다.",
+      "excerpt": "Apple once again demonstrated the power of integrating hardware and software, but it's biggest AI blindspot might be its belief in the primacy of apps.",
       "tags": [
         "stratechery",
         "daily update"
@@ -84,48 +84,6 @@
       "excerpt": "From GPT-5 to nano banana: everyone is getting access to powerful AI",
       "tags": [
         "one-useful-thing"
-      ],
-      "isNew": false
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wOS8wOC8xMTQzNzQ3L3doYXQtb3BlbmFpcy1sYXRlc3QtY29udHJvdmVyc3ktdGVsbHMtdXMtYWJvdXQtdGhlLWZ1dHVyZS1vZi1tYXRoLw",
-      "title": "What OpenAI’s latest controversy tells us about the future of math",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "articleUrl": "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/",
-      "thumbnailUrl": null,
-      "author": "Grace Huckins",
-      "category": "AI + Society",
-      "publishedAt": "2026-09-09T03:10:08.000Z",
-      "readingMinutes": 4,
-      "score": 114,
-      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
-      "excerpt": "OpenAI’s latest mathematical milestone has quickly become mired in controversy. Today, the company announced that its agents have solved one of the Millennium Prize Problems, some of the most important open problems in mathematics. Under no",
-      "tags": [
-        "mit-technology-review",
-        "artificial intelligence",
-        "app",
-        "artificial intelligence"
-      ],
-      "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly9qYWNrLWNsYXJrLm5ldC8yMDI2LzA5LzA3L2ltcG9ydC1haS00NzItZGVlcG1pbmRzLWNoZWF0aW5nLW1hdGgtYWdlbnRzLXBvcHVsaXN0LWFpLXBvbGljaWVzLWFuZC1mb3JldGhvdWdodC10aGVvcml6ZXMtYS1uaWdodHdhdGNobWFuLw",
-      "title": "Import AI 472: DeepMind’s cheating math agents; populist AI policies; and Forethought theorizes a nightwatchman",
-      "source": "Import AI",
-      "sourceUrl": "https://jack-clark.net/feed/",
-      "articleUrl": "https://jack-clark.net/2026/09/07/import-ai-472-deepminds-cheating-math-agents-populist-ai-policies-and-forethought-theorizes-a-nightwatchman/",
-      "thumbnailUrl": "https://i0.wp.com/jack-clark.net/wp-content/uploads/2026/09/https3A2F2Fsubstack-post-media.s3.amazonaws.com2Fpublic2Fimages2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x258-0Ig6P5.png?resize=150%2C150&amp;ssl=1",
-      "author": "Jack Clark",
-      "category": "Research",
-      "publishedAt": "2026-09-07T12:26:31.000Z",
-      "readingMinutes": 4,
-      "score": 114,
-      "whyItMatters": "AI 연구의 실전 감도와 산업 변화의 속도를 동시에 잡게 해준다.",
-      "excerpt": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now Researchers discover another OpenAI agent emergent communi",
-      "tags": [
-        "import-ai",
-        "uncategorized"
       ],
       "isNew": false
     },
@@ -190,26 +148,6 @@
       "isNew": false
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wOS8wOS8xMTQzNzY3L3RoZS1kb3dubG9hZC1vcGVuYWktbWF0aC1mdXR1cmUtYmF0dGVyeS1yZWNvcmQv",
-      "title": "The Download: OpenAI’s turning point for math and a battery record",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "articleUrl": "https://www.technologyreview.com/2026/09/09/1143767/the-download-openai-math-future-battery-record/",
-      "thumbnailUrl": null,
-      "author": "Thomas Macaulay",
-      "category": "AI + Society",
-      "publishedAt": "2026-09-09T12:10:00.000Z",
-      "readingMinutes": 4,
-      "score": 112,
-      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
-      "excerpt": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. What OpenAI’s latest controversy tells us about the future of math OpenAI says its agents have solved ",
-      "tags": [
-        "mit-technology-review",
-        "the download"
-      ],
-      "isNew": true
-    },
-    {
       "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wOC8yNC8xMTQyNjMwL2FpLXNjaG9vbC1jbGFzc3Jvb20tcG9saWNpZXMv",
       "title": "How to encourage smarter AI use in the classroom",
       "source": "MIT Technology Review",
@@ -228,6 +166,26 @@
         "artificial intelligence",
         "app",
         "artificial intelligence"
+      ],
+      "isNew": true
+    },
+    {
+      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9vcGVuYWktZG9lcy1tYXRoLXJld2FyZC1oYWNraW5nLW1ldGEtbGF1bmNoZXMtcGVyc29uYWwtYWdlbnQv",
+      "title": "OpenAI Does Math, Reward-Hacking, Meta Launches Personal Agent",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/feed/",
+      "articleUrl": "https://stratechery.com/2026/openai-does-math-reward-hacking-meta-launches-personal-agent/",
+      "thumbnailUrl": null,
+      "author": "Ben Thompson",
+      "category": "Business Strategy",
+      "publishedAt": "2026-09-09T10:00:00.000Z",
+      "readingMinutes": 4,
+      "score": 111,
+      "whyItMatters": "AI 변화가 사회와 일에 어떤 파장을 만드는지 읽게 해준다.",
+      "excerpt": "OpenAI solving one of the most famous math problems is extremely impressive, and of little impact to most people's lives; Meta's Muse agent launch has the potential to be the exact opposite.",
+      "tags": [
+        "stratechery",
+        "daily update"
       ],
       "isNew": true
     },
@@ -287,6 +245,48 @@
       "excerpt": "It's not just chatbots anymore",
       "tags": [
         "one-useful-thing"
+      ],
+      "isNew": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wOS8wOC8xMTQzNzQ3L3doYXQtb3BlbmFpcy1sYXRlc3QtY29udHJvdmVyc3ktdGVsbHMtdXMtYWJvdXQtdGhlLWZ1dHVyZS1vZi1tYXRoLw",
+      "title": "What OpenAI’s latest controversy tells us about the future of math",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "articleUrl": "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/",
+      "thumbnailUrl": null,
+      "author": "Grace Huckins",
+      "category": "AI + Society",
+      "publishedAt": "2026-09-09T03:10:08.000Z",
+      "readingMinutes": 4,
+      "score": 110,
+      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
+      "excerpt": "OpenAI’s latest mathematical milestone has quickly become mired in controversy. Today, the company announced that its agents have solved one of the Millennium Prize Problems, some of the most important open problems in mathematics. Under no",
+      "tags": [
+        "mit-technology-review",
+        "artificial intelligence",
+        "app",
+        "artificial intelligence"
+      ],
+      "isNew": true
+    },
+    {
+      "id": "aHR0cHM6Ly9qYWNrLWNsYXJrLm5ldC8yMDI2LzA5LzA3L2ltcG9ydC1haS00NzItZGVlcG1pbmRzLWNoZWF0aW5nLW1hdGgtYWdlbnRzLXBvcHVsaXN0LWFpLXBvbGljaWVzLWFuZC1mb3JldGhvdWdodC10aGVvcml6ZXMtYS1uaWdodHdhdGNobWFuLw",
+      "title": "Import AI 472: DeepMind’s cheating math agents; populist AI policies; and Forethought theorizes a nightwatchman",
+      "source": "Import AI",
+      "sourceUrl": "https://jack-clark.net/feed/",
+      "articleUrl": "https://jack-clark.net/2026/09/07/import-ai-472-deepminds-cheating-math-agents-populist-ai-policies-and-forethought-theorizes-a-nightwatchman/",
+      "thumbnailUrl": "https://i0.wp.com/jack-clark.net/wp-content/uploads/2026/09/https3A2F2Fsubstack-post-media.s3.amazonaws.com2Fpublic2Fimages2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x258-0Ig6P5.png?resize=150%2C150&amp;ssl=1",
+      "author": "Jack Clark",
+      "category": "Research",
+      "publishedAt": "2026-09-07T12:26:31.000Z",
+      "readingMinutes": 4,
+      "score": 110,
+      "whyItMatters": "AI 연구의 실전 감도와 산업 변화의 속도를 동시에 잡게 해준다.",
+      "excerpt": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now Researchers discover another OpenAI agent emergent communi",
+      "tags": [
+        "import-ai",
+        "uncategorized"
       ],
       "isNew": false
     },
@@ -393,6 +393,26 @@
         "uncategorized"
       ],
       "isNew": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wOS8wOS8xMTQzNzY3L3RoZS1kb3dubG9hZC1vcGVuYWktbWF0aC1mdXR1cmUtYmF0dGVyeS1yZWNvcmQv",
+      "title": "The Download: OpenAI’s turning point for math and a battery record",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "articleUrl": "https://www.technologyreview.com/2026/09/09/1143767/the-download-openai-math-future-battery-record/",
+      "thumbnailUrl": null,
+      "author": "Thomas Macaulay",
+      "category": "AI + Society",
+      "publishedAt": "2026-09-09T12:10:00.000Z",
+      "readingMinutes": 4,
+      "score": 108,
+      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
+      "excerpt": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. What OpenAI’s latest controversy tells us about the future of math OpenAI says its agents have solved ",
+      "tags": [
+        "mit-technology-review",
+        "the download"
+      ],
+      "isNew": true
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlZCU4NiViNSVlYyVhMCU5Yy0lZWIlYjYlODglZWIlOGElYTUtYWktJWVjJTk4JWE0JWVkJTk0JTg4YWktJWViJThmJTg1JWVjJTlkJWJjLSVlYyU5YyU4NCVlZCU4MiVhNC0lZWMlYTAlOTAlZWElYjElYjAtJWVjJTgyJWFjJWVhJWIxJWI0LSVlYSViMyViNS8/dXRtX3NvdXJjZT1yc3MmdXRtX21lZGl1bT1yc3MmdXRtX2NhbXBhaWduPSUyNWVkJTI1ODYlMjViNSUyNWVjJTI1YTAlMjU5Yy0lMjVlYiUyNWI2JTI1ODglMjVlYiUyNThhJTI1YTUtYWktJTI1ZWMlMjU5OCUyNWE0JTI1ZWQlMjU5NCUyNTg4YWktJTI1ZWIlMjU4ZiUyNTg1JTI1ZWMlMjU5ZCUyNWJjLSUyNWVjJTI1OWMlMjU4NCUyNWVkJTI1ODIlMjVhNC0lMjVlYyUyNWEwJTI1OTAlMjVlYSUyNWIxJTI1YjAtJTI1ZWMlMjU4MiUyNWFjJTI1ZWElMjViMSUyNWI0LSUyNWVhJTI1YjMlMjViNQ",
@@ -693,6 +713,25 @@
       "isNew": false
     },
     {
+      "id": "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL3dob3NlLWFpLXdpbGwtcnVsZS10aGUtd29ybGQ",
+      "title": "Whose AI Will Rule The World?",
+      "source": "Noema",
+      "sourceUrl": "https://www.noemamag.com/feed/",
+      "articleUrl": "https://www.noemamag.com/whose-ai-will-rule-the-world",
+      "thumbnailUrl": null,
+      "author": "Jacob Dreyer",
+      "category": "Philosophy",
+      "publishedAt": "2026-09-10T13:52:30.000Z",
+      "readingMinutes": 4,
+      "score": 106,
+      "whyItMatters": "기술 변화의 의미를 문명·인간 관점에서 깊게 해석한다.",
+      "excerpt": "The post Whose AI Will Rule The World? appeared first on NOEMA.",
+      "tags": [
+        "noema"
+      ],
+      "isNew": true
+    },
+    {
       "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi93cml0ZS10aGluZ3MtZG93bi8",
       "title": "Write Things Down",
       "source": "Stratechery",
@@ -710,7 +749,7 @@
         "stratechery",
         "articles"
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly93d3cub25ldXNlZnVsdGhpbmcub3JnL3AvYW4tb3BpbmlvbmF0ZWQtZ3VpZGUtdG8td2hpY2gtYWktYjIy",
@@ -3554,21 +3593,46 @@
       "isNew": false
     },
     {
-      "id": "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL2EtbmV3LWtpbmQtb2YtY3JlYXRpdmUtcG92ZXJ0eQ",
-      "title": "A New Kind Of Creative Poverty",
-      "source": "Noema",
-      "sourceUrl": "https://www.noemamag.com/feed/",
-      "articleUrl": "https://www.noemamag.com/a-new-kind-of-creative-poverty",
+      "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlZCU4NiVhMCVlYyU4YSVhNCVlYyU5ZCViOCVlYyU4MiVhYyVlYyU5ZCViNCVlZCU4YSViOC0lZWElYjglODglZWMlOWMlYjUtJWVjJTk1JWIxLSVlYSViMiViZCVlYyU5ZiU4MS1haSVlYSViMCU4MC0lZWMlODQlYTAlZWQlODMlOWQlZWQlOTUlOTglZWIlOGElOTQtJWVhJWI1JWFjJWVjJWExJWIwLz91dG1fc291cmNlPXJzcyZ1dG1fbWVkaXVtPXJzcyZ1dG1fY2FtcGFpZ249JTI1ZWQlMjU4NiUyNWEwJTI1ZWMlMjU4YSUyNWE0JTI1ZWMlMjU5ZCUyNWI4JTI1ZWMlMjU4MiUyNWFjJTI1ZWMlMjU5ZCUyNWI0JTI1ZWQlMjU4YSUyNWI4LSUyNWVhJTI1YjglMjU4OCUyNWVjJTI1OWMlMjViNS0lMjVlYyUyNTk1JTI1YjEtJTI1ZWElMjViMiUyNWJkJTI1ZWMlMjU5ZiUyNTgxLWFpJTI1ZWElMjViMCUyNTgwLSUyNWVjJTI1ODQlMjVhMCUyNWVkJTI1ODMlMjU5ZCUyNWVkJTI1OTUlMjU5OCUyNWViJTI1OGElMjU5NC0lMjVlYSUyNWI1JTI1YWMlMjVlYyUyNWExJTI1YjA",
+      "title": "토스인사이트 “금융 앱 경쟁, AI가 ‘선택하는 구조’로 바뀐다”",
+      "source": "Tech42",
+      "sourceUrl": "https://www.tech42.co.kr/feed/",
+      "articleUrl": "https://www.tech42.co.kr/%ed%86%a0%ec%8a%a4%ec%9d%b8%ec%82%ac%ec%9d%b4%ed%8a%b8-%ea%b8%88%ec%9c%b5-%ec%95%b1-%ea%b2%bd%ec%9f%81-ai%ea%b0%80-%ec%84%a0%ed%83%9d%ed%95%98%eb%8a%94-%ea%b5%ac%ec%a1%b0/?utm_source=rss&utm_medium=rss&utm_campaign=%25ed%2586%25a0%25ec%258a%25a4%25ec%259d%25b8%25ec%2582%25ac%25ec%259d%25b4%25ed%258a%25b8-%25ea%25b8%2588%25ec%259c%25b5-%25ec%2595%25b1-%25ea%25b2%25bd%25ec%259f%2581-ai%25ea%25b0%2580-%25ec%2584%25a0%25ed%2583%259d%25ed%2595%2598%25eb%258a%2594-%25ea%25b5%25ac%25ec%25a1%25b0",
       "thumbnailUrl": null,
-      "author": "Afra Wang",
-      "category": "Philosophy",
-      "publishedAt": "2026-09-09T16:00:23.000Z",
+      "author": "정재엽 기자",
+      "category": "AI + Korea",
+      "publishedAt": "2026-09-11T00:29:36.000Z",
       "readingMinutes": 4,
       "score": 100,
-      "whyItMatters": "기술 변화의 의미를 문명·인간 관점에서 깊게 해석한다.",
-      "excerpt": "The post A New Kind Of Creative Poverty appeared first on NOEMA.",
+      "whyItMatters": "한국어 기반으로 AI 산업과 정책 흐름을 빠르게 정리해준다.",
+      "excerpt": "AI 에이전트가 은행·증권·보험 상품 비교부터 일부 거래까지 수행 고객 접점보다 정보 정확성·개인별 판단·거래 신뢰성이 새 경쟁력으로 소수 에이전트 영향력 집중·거래...",
       "tags": [
-        "noema"
+        "tech42",
+        "비즈니스",
+        "ai",
+        "ai 파이낸스 연구 시리즈"
+      ],
+      "isNew": true
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyU5NSVhNCVlZCU4YSViOCVlYiVhMSU5YyVlZCU5NCViZC0lZWMlODMlOWQlZWIlYWMlYmMlZWIlYWMlYjQlZWElYjglYjAtJWVhJWIwJTljJWViJWIwJTljLSVlYyU5NSU4NSVlYyU5YSVhOS0lZWElYjMlYmMlZWQlOTUlOTklZWMlOWUlOTAtJWViJThjJTgwJWVhJWIxJWIwLSVlYyVhMCU4MSVlYiViMCU5Yy8/dXRtX3NvdXJjZT1yc3MmdXRtX21lZGl1bT1yc3MmdXRtX2NhbXBhaWduPSUyNWVjJTI1OTUlMjVhNCUyNWVkJTI1OGElMjViOCUyNWViJTI1YTElMjU5YyUyNWVkJTI1OTQlMjViZC0lMjVlYyUyNTgzJTI1OWQlMjVlYiUyNWFjJTI1YmMlMjVlYiUyNWFjJTI1YjQlMjVlYSUyNWI4JTI1YjAtJTI1ZWElMjViMCUyNTljJTI1ZWIlMjViMCUyNTljLSUyNWVjJTI1OTUlMjU4NSUyNWVjJTI1OWElMjVhOS0lMjVlYSUyNWIzJTI1YmMlMjVlZCUyNTk1JTI1OTklMjVlYyUyNTllJTI1OTAtJTI1ZWIlMjU4YyUyNTgwJTI1ZWElMjViMSUyNWIwLSUyNWVjJTI1YTAlMjU4MSUyNWViJTI1YjAlMjU5Yw",
+      "title": "앤트로픽, 생물무기 개발 악용 과학자 대거 적발",
+      "source": "Tech42",
+      "sourceUrl": "https://www.tech42.co.kr/feed/",
+      "articleUrl": "https://www.tech42.co.kr/%ec%95%a4%ed%8a%b8%eb%a1%9c%ed%94%bd-%ec%83%9d%eb%ac%bc%eb%ac%b4%ea%b8%b0-%ea%b0%9c%eb%b0%9c-%ec%95%85%ec%9a%a9-%ea%b3%bc%ed%95%99%ec%9e%90-%eb%8c%80%ea%b1%b0-%ec%a0%81%eb%b0%9c/?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%2595%25a4%25ed%258a%25b8%25eb%25a1%259c%25ed%2594%25bd-%25ec%2583%259d%25eb%25ac%25bc%25eb%25ac%25b4%25ea%25b8%25b0-%25ea%25b0%259c%25eb%25b0%259c-%25ec%2595%2585%25ec%259a%25a9-%25ea%25b3%25bc%25ed%2595%2599%25ec%259e%2590-%25eb%258c%2580%25ea%25b1%25b0-%25ec%25a0%2581%25eb%25b0%259c",
+      "thumbnailUrl": null,
+      "author": "앨리스",
+      "category": "AI + Korea",
+      "publishedAt": "2026-09-10T23:48:31.000Z",
+      "readingMinutes": 4,
+      "score": 100,
+      "whyItMatters": "한국어 기반으로 AI 산업과 정책 흐름을 빠르게 정리해준다.",
+      "excerpt": "인공지능(AI) 기술이 급격히 발전하면서 이를 생물무기 개발 등 위험한 용도로 악용하려는 시도가 실제 현직 연구자들에 의해 이루어진 것으로 드러났다.",
+      "tags": [
+        "tech42",
+        "ai요약",
+        "생물무기",
+        "앤트로픽"
       ],
       "isNew": true
     },
@@ -6314,71 +6378,6 @@
         "비즈니스",
         "테크놀로지",
         "앤트로픽"
-      ],
-      "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyVhNyU4MSVlYyVhMCU5MS0lZWMlYTclODAlZWMlOGIlOWMtJWVjJTk1JTg4LSVlZCU5NSViNCVlYiU4ZiU4NC0lZWElYjglYjAlZWMlOTYlYjUlZWQlOTUlOWMlZWIlOGIlYTQtJWVjJWIxJTk3Z3B0LSVlYyU5YyVhMCVlYyVhMCU4MC0lZWMlODQlYjElZWQlOTYlYTUtJWVjJTk1JThjJWVjJTk1JTg0Lz91dG1fc291cmNlPXJzcyZ1dG1fbWVkaXVtPXJzcyZ1dG1fY2FtcGFpZ249JTI1ZWMlMjVhNyUyNTgxJTI1ZWMlMjVhMCUyNTkxLSUyNWVjJTI1YTclMjU4MCUyNWVjJTI1OGIlMjU5Yy0lMjVlYyUyNTk1JTI1ODgtJTI1ZWQlMjU5NSUyNWI0JTI1ZWIlMjU4ZiUyNTg0LSUyNWVhJTI1YjglMjViMCUyNWVjJTI1OTYlMjViNSUyNWVkJTI1OTUlMjU5YyUyNWViJTI1OGIlMjVhNC0lMjVlYyUyNWIxJTI1OTdncHQtJTI1ZWMlMjU5YyUyNWEwJTI1ZWMlMjVhMCUyNTgwLSUyNWVjJTI1ODQlMjViMSUyNWVkJTI1OTYlMjVhNS0lMjVlYyUyNTk1JTI1OGMlMjVlYyUyNTk1JTI1ODQ",
-      "title": "“직접 지시 안 해도 기억한다” 챗GPT, 유저 성향 알아서 종합하는 신개념 ‘AI 기억력’ 장착",
-      "source": "Tech42",
-      "sourceUrl": "https://www.tech42.co.kr/feed/",
-      "articleUrl": "https://www.tech42.co.kr/%ec%a7%81%ec%a0%91-%ec%a7%80%ec%8b%9c-%ec%95%88-%ed%95%b4%eb%8f%84-%ea%b8%b0%ec%96%b5%ed%95%9c%eb%8b%a4-%ec%b1%97gpt-%ec%9c%a0%ec%a0%80-%ec%84%b1%ed%96%a5-%ec%95%8c%ec%95%84/?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%25a7%2581%25ec%25a0%2591-%25ec%25a7%2580%25ec%258b%259c-%25ec%2595%2588-%25ed%2595%25b4%25eb%258f%2584-%25ea%25b8%25b0%25ec%2596%25b5%25ed%2595%259c%25eb%258b%25a4-%25ec%25b1%2597gpt-%25ec%259c%25a0%25ec%25a0%2580-%25ec%2584%25b1%25ed%2596%25a5-%25ec%2595%258c%25ec%2595%2584",
-      "thumbnailUrl": null,
-      "author": "앨리스",
-      "category": "AI + Korea",
-      "publishedAt": "2026-06-05T00:30:59.000Z",
-      "readingMinutes": 4,
-      "score": 100,
-      "whyItMatters": "한국어 기반으로 AI 산업과 정책 흐름을 빠르게 정리해준다.",
-      "excerpt": "인공지능(AI) 챗봇 챗GPT의 기억 능력이 대대적으로 진화한다. 오픈AI(OpenAI)는 기존의 단순 정보 저장 방식을 넘어 사용자의 다양한 대화 맥락을 스스로 종합하고 학습하는 혁신적인 차세대 기억 아키텍처를 전격 출시했다.",
-      "tags": [
-        "tech42",
-        "ai요약",
-        "챗gpt"
-      ],
-      "isNew": false
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyViZCU5NCVlYiU5NCVhOS0lZWMlOTclOTAlZWMlOWQlYjQlZWMlYTAlODQlZWQlOGElYjgtJWVhJWI4JWIwJWVjJTk3JTg1LSVlYyU5ZSU5MCVlYiU4ZiU5OSVlZCU5OSU5NC0lZWQlOTglODQlZWMlOWUlYTUlZWMlOWMlYmMlZWIlYTElOWMlZWMlOWMlYTAlZWMlOTUlODQlZWMlOWQlYjQlZWQlOGMlYTglZWMlOGElYTQvP3V0bV9zb3VyY2U9cnNzJnV0bV9tZWRpdW09cnNzJnV0bV9jYW1wYWlnbj0lMjVlYyUyNWJkJTI1OTQlMjVlYiUyNTk0JTI1YTktJTI1ZWMlMjU5NyUyNTkwJTI1ZWMlMjU5ZCUyNWI0JTI1ZWMlMjVhMCUyNTg0JTI1ZWQlMjU4YSUyNWI4LSUyNWVhJTI1YjglMjViMCUyNWVjJTI1OTclMjU4NS0lMjVlYyUyNTllJTI1OTAlMjVlYiUyNThmJTI1OTklMjVlZCUyNTk5JTI1OTQtJTI1ZWQlMjU5OCUyNTg0JTI1ZWMlMjU5ZSUyNWE1JTI1ZWMlMjU5YyUyNWJjJTI1ZWIlMjVhMSUyNTljJTI1ZWMlMjU5YyUyNWEwJTI1ZWMlMjU5NSUyNTg0JTI1ZWMlMjU5ZCUyNWI0JTI1ZWQlMjU4YyUyNWE4JTI1ZWMlMjU4YSUyNWE0",
-      "title": "코딩 에이전트, 기업 자동화 현장으로…유아이패스, 거버넌스 통합 플랫폼 공개",
-      "source": "Tech42",
-      "sourceUrl": "https://www.tech42.co.kr/feed/",
-      "articleUrl": "https://www.tech42.co.kr/%ec%bd%94%eb%94%a9-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8-%ea%b8%b0%ec%97%85-%ec%9e%90%eb%8f%99%ed%99%94-%ed%98%84%ec%9e%a5%ec%9c%bc%eb%a1%9c%ec%9c%a0%ec%95%84%ec%9d%b4%ed%8c%a8%ec%8a%a4/?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%25bd%2594%25eb%2594%25a9-%25ec%2597%2590%25ec%259d%25b4%25ec%25a0%2584%25ed%258a%25b8-%25ea%25b8%25b0%25ec%2597%2585-%25ec%259e%2590%25eb%258f%2599%25ed%2599%2594-%25ed%2598%2584%25ec%259e%25a5%25ec%259c%25bc%25eb%25a1%259c%25ec%259c%25a0%25ec%2595%2584%25ec%259d%25b4%25ed%258c%25a8%25ec%258a%25a4",
-      "thumbnailUrl": null,
-      "author": "조상돈 기자",
-      "category": "AI + Korea",
-      "publishedAt": "2026-06-04T00:31:39.000Z",
-      "readingMinutes": 4,
-      "score": 100,
-      "whyItMatters": "한국어 기반으로 AI 산업과 정책 흐름을 빠르게 정리해준다.",
-      "excerpt": "클로드 코드·오픈AI 코덱스 우선 지원…2026년 중 통합 대상 확대 개발·테스트·배포·운영 전 과정에 오케스트레이션·거버넌스 적용 현업 담당자도 자연어로 자동화 구현…기업용 AI...",
-      "tags": [
-        "tech42",
-        "테크놀로지",
-        "거버넌스 통합 플랫폼",
-        "코딩 에이전트"
-      ],
-      "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYiVhYyViYy0lZWMlOTMlYjAlZWIlOTMlYWYtJWVjJTkzJWIwJWViJThkJTk4LSVlZCU4NSU4YyVlZCU4MSVhYy0lZWMlOGIlOWMlZWIlOGMlODAtJWViJTgxJTlkJWViJTgyJWFjJWViJThiJWE0LSVlYSViNSVhYyVlYSViOCU4MC0lZWIlOGQlYjAlZWMlOWQlYjQlZWQlODQlYjAtJWVjJTg0JWJjJWVkJTg0JWIwLz91dG1fc291cmNlPXJzcyZ1dG1fbWVkaXVtPXJzcyZ1dG1fY2FtcGFpZ249JTI1ZWIlMjVhYyUyNWJjLSUyNWVjJTI1OTMlMjViMCUyNWViJTI1OTMlMjVhZi0lMjVlYyUyNTkzJTI1YjAlMjVlYiUyNThkJTI1OTgtJTI1ZWQlMjU4NSUyNThjJTI1ZWQlMjU4MSUyNWFjLSUyNWVjJTI1OGIlMjU5YyUyNWViJTI1OGMlMjU4MC0lMjVlYiUyNTgxJTI1OWQlMjVlYiUyNTgyJTI1YWMlMjVlYiUyNThiJTI1YTQtJTI1ZWElMjViNSUyNWFjJTI1ZWElMjViOCUyNTgwLSUyNWViJTI1OGQlMjViMCUyNWVjJTI1OWQlMjViNCUyNWVkJTI1ODQlMjViMC0lMjVlYyUyNTg0JTI1YmMlMjVlZCUyNTg0JTI1YjA",
-      "title": "“물 쓰듯 쓰던 테크 시대 끝났다” 구글, 데이터 센터 물 소비량 넘는 수자원 환원 전격 선언",
-      "source": "Tech42",
-      "sourceUrl": "https://www.tech42.co.kr/feed/",
-      "articleUrl": "https://www.tech42.co.kr/%eb%ac%bc-%ec%93%b0%eb%93%af-%ec%93%b0%eb%8d%98-%ed%85%8c%ed%81%ac-%ec%8b%9c%eb%8c%80-%eb%81%9d%eb%82%ac%eb%8b%a4-%ea%b5%ac%ea%b8%80-%eb%8d%b0%ec%9d%b4%ed%84%b0-%ec%84%bc%ed%84%b0/?utm_source=rss&utm_medium=rss&utm_campaign=%25eb%25ac%25bc-%25ec%2593%25b0%25eb%2593%25af-%25ec%2593%25b0%25eb%258d%2598-%25ed%2585%258c%25ed%2581%25ac-%25ec%258b%259c%25eb%258c%2580-%25eb%2581%259d%25eb%2582%25ac%25eb%258b%25a4-%25ea%25b5%25ac%25ea%25b8%2580-%25eb%258d%25b0%25ec%259d%25b4%25ed%2584%25b0-%25ec%2584%25bc%25ed%2584%25b0",
-      "thumbnailUrl": null,
-      "author": "버트",
-      "category": "AI + Korea",
-      "publishedAt": "2026-06-04T00:02:17.000Z",
-      "readingMinutes": 4,
-      "score": 100,
-      "whyItMatters": "한국어 기반으로 AI 산업과 정책 흐름을 빠르게 정리해준다.",
-      "excerpt": "글로벌 빅테크 기업 구글(Google)이 인공지능(AI) 열풍과 서비스 확대로 가물어가는 지구촌 수자원을 보호하기 위해 전방위적인 환경 투자 카드를 꺼내 들었다.",
-      "tags": [
-        "tech42",
-        "ai요약",
-        "구글",
-        "데이터센터"
       ],
       "isNew": true
     }
